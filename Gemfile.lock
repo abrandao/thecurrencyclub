@@ -256,7 +256,7 @@ DEPENDENCIES
   tzinfo-data
   web-console (>= 3.3.0)
   webdrivers
-  webmock
+  webmock (~> 3.9.0)
   webpacker (~> 4.0)
 
 RUBY VERSION

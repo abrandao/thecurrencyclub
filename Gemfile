@@ -7,7 +7,7 @@ ruby '2.7.1'
 gem 'rest-client'
 
 # WebMock allows stubbing HTTP requests and setting expectations on HTTP requests
-gem 'webmock'
+gem 'webmock', '~> 3.9.0'
 
 # rspec-rails is a testing framework for Rails 5+.
 gem 'rspec-rails', '~> 4.0', '>= 4.0.1'
