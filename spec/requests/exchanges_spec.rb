@@ -9,7 +9,6 @@ RSpec.describe "Exchanges", type: :request do
     end
   end
 
-
   describe 'GET #convert' do
     before do
       @amount = rand(1...9999)
