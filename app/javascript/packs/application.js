@@ -9,6 +9,7 @@ require("@rails/activestorage").start()
 require("channels")
 require("jquery")
 require("../channels/exchanges.coffee")
+require("../channels/invert")
 
 import "bootstrap"
 import "@fortawesome/fontawesome-free/js/all"
